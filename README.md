@@ -20,6 +20,7 @@ for compatibility with minimosd board change 10 to 6 in line: const byte osdChip
 
 ### /////////removing voltage divider////////// 
 To connect 5 way joystick switch You need to remove voltage divider from line A0->BAT2. 
+* You can see how to do this here-> https://youtu.be/0UNR3S7Q-KQ
 * You will need any soldering gear and multimeter.
 1. First find resistor 15kOhm connected with BAT2 output 
 2. Next find resistor 1kOhm connected to 15kOhm 
